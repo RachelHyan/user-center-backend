@@ -7,5 +7,3 @@ spring:
   # session 失效时间
   session:
     timeout: 86400
-  server:
-    address: 43.139.160.242:8080
